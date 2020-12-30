@@ -39,4 +39,10 @@ $``python test_spacy_ner.py``
 
 + 测试表明 spacy 并不适用于 医疗文本这种专业领域
 
-  
+
+### TDDO
+
+- [ ] Bert NER
+- [ ] crf_NER
+- [ ] lstm + crf _ner
+
